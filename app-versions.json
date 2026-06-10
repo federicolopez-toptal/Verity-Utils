@@ -1,0 +1,10 @@
+{
+"iOS":{
+"version": 1.2,
+"build": 200
+},
+"android": {
+"version": 1.2,
+"build": 200
+}
+}
