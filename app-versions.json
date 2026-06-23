@@ -12,7 +12,10 @@
     }
   },
   "android": {
-  "version": "8.2.0.209",
-  "build": "209"
+    "co.median.android.awmmnx": {
+      "name": "beta",
+      "version": "8.2.0.209",
+      "build": "209"
+    }
   }
 }
