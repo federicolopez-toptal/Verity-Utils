@@ -1,7 +1,13 @@
 {
   "iOS":{
-  "version": "8.2",
-  "build": "208"
+    "beta": {
+      "version": "8.2",
+      "build": "208"
+    },
+    "prod": {
+      "version": "8.2",
+      "build": "208"
+    }
   },
   "android": {
   "version": "8.2.0.209",
